@@ -18,7 +18,7 @@ This project analyzes e-commerce sales data to generate business insights using 
 
 ##  Dashboard Preview
 
-![Dashboard](file:///C:/Users/lenovo/OneDrive/Desktop/Ecommerce_Analysis/Dashboard%20.png)
+![Dashboard](images/Dashboard.png)
 
 ##  Project Files
 
