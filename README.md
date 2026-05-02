@@ -1,2 +1,32 @@
-# ecommerce-sales-analysis
-End-to-end E-commerce Sales Analysis using Python, SQL, and Power BI
+#  E-commerce Sales Dashboard (Power BI)
+
+##  Overview
+
+This project analyzes e-commerce sales data to generate business insights using Power BI, SQL, and Python.
+
+##  Tools Used
+
+* Power BI
+* MySQL
+* Python (Pandas)
+
+##  Key Insights
+
+* Technology category has the highest sales
+* West region is the most profitable
+* Sales show monthly fluctuations
+
+##  Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+##  Project Files
+
+* Ecommerce_Sales_Dashboard.pbix
+* superstore_clean.csv
+* SQL Queries
+* Data Cleaning (Python)
+
+##  Author
+
+Smitha S R
