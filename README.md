@@ -18,7 +18,7 @@ This project analyzes e-commerce sales data to generate business insights using 
 
 ##  Dashboard Preview
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ##  Project Files
 
